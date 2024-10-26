@@ -7,6 +7,7 @@ This project contains a Python script that scrapes educational content from the 
 - Scrapes questions and options from testkolik.com
 - Supports different grades, lessons, and topics
 - Handles Turkish language content
+- Creates an API using fastapi
 - Uses BeautifulSoup for HTML parsing
 
 ## Requirements
@@ -25,7 +26,7 @@ This project contains a Python script that scrapes educational content from the 
 
 2. Install the required packages:
    ```
-   pip install requests beautifulsoup4 google-generativeai
+   pip install requests beautifulsoup4 google-generativeai fastapi
    ```
 
 ## Usage
