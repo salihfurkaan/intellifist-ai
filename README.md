@@ -25,7 +25,7 @@ This project contains a Python script that scrapes educational content from the 
 
 2. Install the required packages:
    ```
-   pip install requests beautifulsoup4 google
+   pip install requests beautifulsoup4 google-generativeai
    ```
 
 ## Usage
