@@ -42,7 +42,7 @@ Replace `GRADE`, `LESSON`, and `TOPIC` with your desired values.
 
 The main function `scrape_through_hs(grade: str, lesson: str, topic: str)` takes three parameters:
 
-- `grade`: The grade level (9th to 12th)
+- `grade`: The grade level (9th to 12th such as 9)
 - `lesson`: The lesson name (e.g., "din-kulturu")
 - `topic`: The specific topic (e.g., "allah-insan-iliskisi")
 
